@@ -1,2 +1,2 @@
-# sprint-analise-boaspraticas-pucrio
-Este repositório é para armazenar datasets e notebooks da Sprint de Análise de Dados e Boas Práticas do curso de Pós Graduação da PUC-RIO.
+# Pós Graduação em Data Science & Analytics | PUCRIO
+Este repositório é para armazenar datasets e notebooks desenvolvidos como MVP para o curso de Pós Graduação.
